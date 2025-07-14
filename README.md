@@ -21,10 +21,10 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 ### Conecte-se Comigo:
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/wilson-evangelista-dos-santos-filho-589063145" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/joneidson-costa-bab5b22a7/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
     </a>
-    <a href="https://github.com/wilsonpan20" target="_blank" rel="noreferrer">
+    <a href="https://github.com/Joneidson" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
     </a>
     <a href="https://discordapp.com/users/SEU_ID_DISCORD" target="_blank" rel="noreferrer">
