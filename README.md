@@ -27,20 +27,8 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
     <a href="https://github.com/Joneidson" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
     </a>
-    <a href="https://discordapp.com/users/SEU_ID_DISCORD" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-    </a>
-    <a href="https://www.instagram.com/SEU_USUARIO_INSTAGRAM" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com/santoo__victor/?igsh=ZW56emI2MHZtcndj#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-    </a>
-    <a href="https://www.facebook.com/SEU_USUARIO_FACEBOOK" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-    </a>
-    <a href="mailto:SEU_EMAIL@dominio.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-    </a>
-    <a href="https://wa.me/SEU_NUMERO_WHATSAPP" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
     </a>
 </div>
 
