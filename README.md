@@ -129,6 +129,7 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ### Animação:
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/joneidson/joneidson/output/snake.svg" alt="Snake animation" />
-</div>
+
+<img src="https://raw.githubusercontent.com/joneidson/joneidson/output/snake.svg" alt="Snake animation" />
+
+###
