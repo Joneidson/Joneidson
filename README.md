@@ -129,6 +129,13 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ### Animação:
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Joneidson">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Joneidson">
+  <img alt="Pac-Man contribution graph" src="https://github.com/Joneidson">
+</picture>
+</div>
 
 
 
