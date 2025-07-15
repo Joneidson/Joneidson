@@ -21,16 +21,13 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 ### Conecte-se Comigo:
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/joneidson-costa-bab5b22a7/" 
-       onclick="window.open(this.href); setTimeout(() => { window.location = this.href }, 100); return false;" 
+    <a href="https://www.linkedin.com/in/joneidson-costa-bab5b22a7/" onclick="window.open(this.href); return true;" 
        rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
     </a>
-
     <a href="https://github.com/Joneidson" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/>
     </a>
-
     <a href="https://www.instagram.com/santoo__victor/?igsh=ZW56emI2MHZtcndj#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
     </a>
