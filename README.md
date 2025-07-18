@@ -122,6 +122,10 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ###
 
+### Grafico de contribuição
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joneidson&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 ### Animação:
