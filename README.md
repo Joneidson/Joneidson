@@ -124,8 +124,6 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ---
 
-### Sequência de Contribuições:
-
 
 
 ### Animação:
