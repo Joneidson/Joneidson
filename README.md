@@ -13,7 +13,7 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 ---
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=wilsonpan20&label=Profile%20views&color=0e75b6&style=flat" alt="wilsonpan20" /> 
+    <img src="https://komarev.com/ghpvc/?username=joneidson&label=Profile%20views&color=0e75b6&style=flat" alt="joneidson" /> 
 </p>
 
 ---
@@ -126,9 +126,7 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ### Sequência de Contribuições:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joneidson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+
 
 ### Animação:
 
