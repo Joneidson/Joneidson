@@ -18,6 +18,11 @@ Se você também acredita que tecnologia pode ser bonita e funcional 💻❤️,
 Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ---
+## 🔗 Acesse o site direto aqui:
+<a href="https://joneidson.github.io/Portfolio-pessoal/" onclick="fetch('https://komarev.com/ghpvc/?username=joneidson');">
+  <img src="https://img.shields.io/badge/👨‍💻-Ver%20Portfólio-blue?style=for-the-badge&logo=github" alt="Ver Portfólio">
+</a>
+
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=joneidson&label=Profile%20views&color=0e75b6&style=flat" alt="joneidson" /> 
