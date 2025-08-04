@@ -20,9 +20,10 @@ Explore meus repositórios para conhecer meus projetos e contribuições!
 
 ## 🔗 Acesse o meu site direto aqui:
 <br />
-<a href="https://joneidson.github.io/Portfolio-pessoal/" onclick="fetch('https://komarev.com/ghpvc/?username=joneidson');">
+<a href="https://joneidson.github.io/Portfolio-pessoal/" target="_blank" onclick="fetch('https://komarev.com/ghpvc/?username=joneidson');">
   <img src="https://img.shields.io/badge/👨‍💻-Ver%20Portfólio-blue?style=for-the-badge&logo=github" alt="Ver Portfólio">
 </a>
+
 <br />
 
 <p align="left"> 
